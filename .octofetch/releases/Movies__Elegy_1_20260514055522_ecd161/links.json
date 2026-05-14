@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8227",
+  "folder": "Movies__Elegy_1_20260514055522_ecd161",
+  "base_name": "Movies__Elegy_1_20260514055522_ecd161.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-2/releases/tag/co-releases-v1-8227",
+  "files": [
+    {
+      "name": "Movies__Elegy_1_20260514055522_ecd161.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-2/releases/download/co-releases-v1-8227/Movies__Elegy_1_20260514055522_ecd161.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-2/releases/assets/419922769",
+      "id": 419922769,
+      "size": 332688,
+      "download_count": 0
+    }
+  ]
+}
