@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4248",
+  "folder": "YouTube__watch_20260514012453_b96b7a",
+  "base_name": "The_Greatest_Sound_Design_In_Anime_(REACTION)_Aw79xrYZST4_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-2/releases/tag/co-releases-v1-4248",
+  "files": [
+    {
+      "name": "The_Greatest_Sound_Design_In_Anime_.REACTION._Aw79xrYZST4_480p.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-2/releases/download/co-releases-v1-4248/The_Greatest_Sound_Design_In_Anime_.REACTION._Aw79xrYZST4_480p.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-2/releases/assets/419768131",
+      "id": 419768131,
+      "size": 57853040,
+      "download_count": 0
+    }
+  ]
+}
