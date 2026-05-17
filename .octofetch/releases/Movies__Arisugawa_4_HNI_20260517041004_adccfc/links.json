@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4604",
+  "folder": "Movies__Arisugawa_4_HNI_20260517041004_adccfc",
+  "base_name": "Movies__Arisugawa_4_HNI_20260517041004_adccfc.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-2/releases/tag/co-releases-v1-4604",
+  "files": [
+    {
+      "name": "Movies__Arisugawa_4_HNI_20260517041004_adccfc.mp4",
+      "url": "https://github.com/unknown11ha11-arch/Cloud-Downloads-2/releases/download/co-releases-v1-4604/Movies__Arisugawa_4_HNI_20260517041004_adccfc.mp4",
+      "api_url": "https://api.github.com/repos/unknown11ha11-arch/Cloud-Downloads-2/releases/assets/422262485",
+      "id": 422262485,
+      "size": 277500,
+      "download_count": 0
+    }
+  ]
+}
